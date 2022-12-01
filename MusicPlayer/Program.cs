@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Application application= new Application();
+            Application application = new Application();
             application.Menu();
-          // MusicPlayer music = new MusicPlayer();
+            MusicPlayer music = new MusicPlayer();
 
-           // music.PlaySongs();
+
         }
     }
 }

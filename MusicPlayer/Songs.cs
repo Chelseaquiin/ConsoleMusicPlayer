@@ -8,6 +8,7 @@ namespace MusicPlayer
 {
     internal class Songs
     {
+        public string ID { get; set; }
         public string SongName { get; set; }
         public string Artist { get; set; }
 
@@ -15,8 +16,9 @@ namespace MusicPlayer
         {
 
         }
-        public Songs(string songName, string artist)
+        public Songs(string id, string songName, string artist)
         {
+            ID = id;
             SongName = songName;
             Artist = artist;
         }

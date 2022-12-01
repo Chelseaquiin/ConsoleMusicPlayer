@@ -4,7 +4,7 @@
     {
         List<Songs> SongList { get; set; } = new();
         List<Songs> Playlist { get; set; } = new();
-        PriorityQueue<Songs, int> Queue { get; set; } = new();
+
 
         public void AddASong(Songs song)
         {
@@ -27,7 +27,7 @@
             foreach (Songs song in SongList)
             {
 
-                Console.WriteLine($"Song: {song.SongName} Artist: {song.Artist}");
+                Console.WriteLine($"Song ID: {song.ID} Song: {song.SongName} Artist: {song.Artist}");
             }
 
         }
@@ -45,7 +45,7 @@
         {
             foreach (Songs song in Playlist)
             {
-                Console.WriteLine($"Song: {song.SongName} Artist: {song.Artist}");
+                Console.WriteLine($"Song ID: {song.ID} Song: {song.SongName} Artist: {song.Artist}");
             }
         }
 
@@ -88,22 +88,6 @@
         {
             Playlist = Playlist.OrderBy(i => Guid.NewGuid()).ToList();
             LoopThroughPlayList();
-        }
-        public void GetNextSong(Songs songs)
-        {
-            int index = 0;
-            int count = 0;
-           // Songs s = SongList.FirstOrDefault(a => a.SongName == songs.SongName);
-           foreach(Songs song in SongList)
-            {
-                Queue.Enqueue(songs, count);
-                count++;
-            }
-
-            
-
-
-
         }
 
         public void LoopThrough()

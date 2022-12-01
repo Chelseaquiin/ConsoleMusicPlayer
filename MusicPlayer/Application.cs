@@ -42,11 +42,13 @@
 
         public Songs GetSong()
         {
+            Console.WriteLine("Song ID: ");
+            string id = Console.ReadLine();
             Console.WriteLine("Song name: ");
             string songName = Console.ReadLine();
             Console.WriteLine("Artist");
             string artist = Console.ReadLine();
-            Songs songToAdd = new(songName, artist);
+            Songs songToAdd = new(id, songName, artist);
             return songToAdd;
         }
         private void NewPlayList()
