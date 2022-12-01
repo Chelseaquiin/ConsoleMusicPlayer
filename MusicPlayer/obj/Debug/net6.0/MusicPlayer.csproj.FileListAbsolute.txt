@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.exe
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.deps.json
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.runtimeconfig.json
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.dll
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\bin\Debug\net6.0\MusicPlayer.pdb
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.AssemblyInfo.cs
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.dll
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\refint\MusicPlayer.dll
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.pdb
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\MusicPlayer.genruntimeconfig.cache
+C:\Users\user\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net6.0\ref\MusicPlayer.dll
